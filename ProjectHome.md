@@ -1,0 +1,5 @@
+Muchos son los juegos que salen para consolas a lo largo del año cada año, pero nos es prácticamente imposible el poder probarlos todos y cada uno de ellos, de todas formas existe un modo gracias al cual podremos disfrutar de juegos para PlayStation, Wii o Xbox desde nuestro PC y de una forma realmente sencilla: los emuladores.
+
+Para poder emular todas las consolas actuales del mercado, necesitaríamos al menos un emulador por cada una de ellas, pero Emulatorx puede ser la solución definitiva a cualquier problema que podamos tener en nuestro equipo con los emuladores. Desde una misma interfaz podrás instalar y ejecutar emuladores de PSX, PS1, PSP, GameCube/Wii, Xbox, Nintendo DS, MegaDrive, GameboyAdvance y SNES.
+
+Una vez ejecutado el programa solo tendremos que seleccionar el emulador desde el cual querremos ejecutar una rom y, una vez hecho esto, seleccionar el juego y disfrutar como si de la consola se tratase. Es posible utilizar los periféricos de cada plataforma (WiiRemote, mandos de X360 o tarjetas de memoria, entre otras cosas) poder utilizar el juego tal y como lo haríamos desde la consola.
